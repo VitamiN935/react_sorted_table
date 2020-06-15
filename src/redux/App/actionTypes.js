@@ -1,0 +1,9 @@
+
+export const SET_DATA = 'SET_DATA';
+export const ADD_ITEM = 'ADD_ITEM';
+export const SORT_BY_FIELD = 'SORT_BY_FIELD';
+export const SET_MODE = 'SET_MODE';
+export const MAKE_FILTER_DATE_TO_FIELD = 'MAKE_FILTER_DATE_TO_FIELD'
+export const FILTER_DATE_TO_SEARCH = 'FILTER_DATE_TO_SEARCH'
+export const SET_SELECTED_ROW = 'SET_SELECTED_ROW'
+export const SET_SEARCH_VALUE = 'SET_SEARCH_VALUE'
